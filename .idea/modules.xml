@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-sample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-sample_main.iml" group="spring-boot-sample" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-sample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-sample_test.iml" group="spring-boot-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-api-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-api-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-api-sample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-api-sample_main.iml" group="spring-boot-api-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-api-sample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-api-sample_test.iml" group="spring-boot-api-sample" />
     </modules>
   </component>
 </project>
